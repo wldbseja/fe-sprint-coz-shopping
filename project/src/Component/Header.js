@@ -54,7 +54,7 @@ const HeaderRight = styled.div`
 
 const Icon = styled.img`
   position: absolute;
-  right: 3.88%;
+  right: 7.22%;
   top: 30.33%;
   bottom: 8.33%;
 `;
