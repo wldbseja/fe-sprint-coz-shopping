@@ -13,7 +13,7 @@ const FooterTextUp = styled.div`
   position: absolute;
   left: 44.14%;
   right: 44.14%;
-  top: 18.97%;
+  top: 23%;
   bottom: 50%;
 
   font-family: 'Inter';
@@ -26,7 +26,7 @@ const FooterTextDown = styled.div`
   position: absolute;
   left: 43.22%;
   right: 42.73%;
-  top: 50%;
+  top: 60%;
   bottom: 18.97%;
 
   font-family: 'Inter';
