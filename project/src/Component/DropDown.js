@@ -43,7 +43,7 @@ const DropdownIcon = styled.img`
 `;
 
 function DropDown() {
-  const navigate = useNavigate;
+  const navigate = useNavigate();
   return (
     <DropDownBody>
       <DropdownSection>OOO님, 안녕하세요!</DropdownSection>
